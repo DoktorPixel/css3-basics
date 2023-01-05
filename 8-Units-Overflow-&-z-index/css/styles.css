@@ -37,5 +37,5 @@ html {
   position: absolute;
 
   z-index: 2;
-  overflow: hidden;
+  overflow: auto;
 }
